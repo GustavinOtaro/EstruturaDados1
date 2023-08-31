@@ -1,0 +1,99 @@
+-Aula Estrutura de Dados do dia 16/08-
+
+Email do Professor = mauricio.gonzatto@unoesc.edu.br
+
+----------------------------------------------------------------
+SDK = Software Development Kit
+
+CLR = Common Language Runtime
+
+WYSIWYG = What You See Is What You Get
+	--Ferrametnas de Drag and Drop--
+
+SGBD = Sistema de Geranciamento de Banco de Dados
+
+W3C = World Wide Web Consortium
+	--Site para estudar = W3School--
+
+IDE = Integrated Development Environment
+
+XML = eXtensible Markup Language
+
+HTML = HyperText Markup Language
+
+
+
+CamelCase = Inicial Maiusculo
+snake_case = minusculo com _
+----------------------------------------------------------------- 
+COMANDOS .NET
+
+Ver versão do dotnet sdk
+dotnet --list-sdks
+
+Criar projeto console
+dotnet new console -n "PrimeiraAula"
+cd  (Nome do Console acima)
+code .
+
+Executar Projeto
+CTRL + " (Abrir o terminal)
+dotnet run
+
+-----------------------------------------------------------------
+
+Site para aprender C#: https://dotnet.microsoft.com/pt-br/learntocode
+
+Baixar e Instalar o SDK 7.0.201
+https://dotnet.microsoft.com/pt-br/download/dotnet/thank-you/sdk-7.0.201-windows-x64-installer
+
+Instalar o Visual Studio Code e as extenções:
+
+IntelliCode 
+Dracula Official
+C#
+C# extensions
+Material Icon Theme
+Portuguese (Brazil) Language Packs
+
+-----------------------------------------------------------------
+TIPOS DE VARIAVEIS
+Contador
+Acumulador 
+Flag
+-----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

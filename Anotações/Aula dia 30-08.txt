@@ -1,0 +1,60 @@
+-Aula dia 30/08-
+
+----------------------------------------------------------------
+
+GitHub = É uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git
+
+Instalar o GIT = https://github.com/git-for-windows/git/releases/download/v2.42.0.windows.2/Git-2.42.0.2-64-bit.exe
+
+----------------------------------------------------------------
+
+Repositório Local = Na máquina
+
+Repositório Remoto = Fica configurado para armazenar na nuvem
+
+README = Istruções iniciais do repositório
+
+Template GitIgonore = É o arquivo que vai possibilitar definir quais arquivos dentro do meu repositorio remoto serão ignorados, ou seja,
+não serão baixados ou enviados para a nuvem
+
+PUSH = Comando para enviar os arquivos do repositório Local para o Remoto 
+
+MAIN = BRANCH (filial)
+----------------------------------------------------------------
+
+Dentro da pasta de Estrutura de Dados I, botão direito e abrir o console com o GIT BASH
+
+Lembrar de habilitar os itens ocultos
+
+----------------------------------------------------------------
+
+-Códigos-
+
+git clone = Clonar o repositório remoto no repositório local
+
+cd (Nome da pasta) no console do GIT BASH para entrar
+
+git status = ver status
+
+git remote -v = ver os repositórios remotos
+
+git remote add (nome) (URL) = adicionar um repositório remoto
+
+git add . = adicionar todas as pastas do local na branch
+
+git commit -m "Primeiro Commit" = confirmar a adição das pastas na branch
+
+git push origin main = enviar a branch que estamos editando (main) para o diretório (origin) na nuvem
+
+clear = limpar os códigos
+
+ls = exibir o que tem
+
+cd .. = volta as pastas no console
+
+----------------------------------------------------------------
+
+-Atividade- 
+
+Criar um programa que solicite o usuário para carregar valores com 0 ou 1 apenas em uma matriz 3x3, o usuário deve dizer em qual casa da matriz ele vai guardar o valor,
+dando a linha e a coluna, e dizendo se ele ja guardou dentro de uma

@@ -1,0 +1,16 @@
+-Aula Estrutura de Dados do dia 23/08-
+
+----------------------------------------------------------------
+
+Laço de Repetição Encadeiado = for dentro de for
+
+----------------------------------------------------------------
+
+Criar conta no GitHub
+
+Acessar o portal e praticar os meses do ano localizados no livro
+
+Usar no início do código o comando
+
+using System.Globalization
+
