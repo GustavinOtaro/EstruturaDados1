@@ -1,0 +1,17 @@
+Aula dia 06-09
+
+--------------------------------------------------------------------
+
+-Conceitos-
+
+FILA/QUEUE: Fisrt In First Out 
+
+PILHA/STACK: First In Last Out
+
+Classe é TAD: Tipo abstrato de dados 
+
+--------------------------------------------------------------------
+
+-Códigos-
+
+namespace: biblioteca de ferramentas
