@@ -1,0 +1,41 @@
+-Aula dia 20-09-
+
+----------------------------------------------------------------
+
+Hash = Key
+Table = Value
+
+----------------------------------------------------------------
+
+C# 
+1° o Tipo = HashTable
+2 ° o Nome da Variavel = openWith
+= new esta instanciando o Tipo, e a instancia tem que ter o mesmo nome do tipo
+
+O $ serve pra concatenar
+
+HashTable openWith = new HashTable();
+
+----------------------------------------------------------------
+
+Shift + Home seleciona a linha
+
+Shift + Alt + seta copia a linha pra direção da seta
+
+----------------------------------------------------------------
+
+Interface é diferente de Tela de Usuário
+
+Tela de Usuário = GUI/UI, Guide User ou View
+
+Interface é o Contrato da Classe (Adaptador das Classes)
+
+A Interface diz como a Classe deve se comportar
+
+----------------------------------------------------------------
+
+Atividade: Escreva um programa que seja capaz de interagir com o usuário utilizando Console.WriteLine e Console.ReadLine,
+o programa deve solicitar ao usuário os pares chave e valor para uma tabela hash que ira armazenar respectivamente CPF e Nome, o programa deve:
+1: Checar se a chave ja foi inserida previamente
+2: Realizar as devidas validações para evitar as possíveis interrupções e execuções
+Ao final, percorrer e exibir todos os dados inseridos pelo usuário
