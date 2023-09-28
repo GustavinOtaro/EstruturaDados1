@@ -1,0 +1,19 @@
+-Aula dia 27-09-
+
+------------------------------------------------------------------------
+
+-> Caso Base: Processo que encerra a condição 
+-> Caso Recursivo: Processo chamando a condição
+
+------------------------------------------------------------------------
+
+-Tipos de erros-
+
+-> Semantico: Atribuição de valor de tipo errado 
+-> Lexico: Palavra escrita errada
+-> Sintatico: Falta de . , ) {
+
+------------------------------------------------------------------------
+
+Atividade 
+pgn 150 -> 152 
